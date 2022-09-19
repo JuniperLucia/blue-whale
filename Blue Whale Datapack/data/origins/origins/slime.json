@@ -1,0 +1,7 @@
+{
+    "name": "Slime",
+    "description": "Work in Progress, Mind no Think",
+    "order": 15,
+    "impact": 2,
+    "icon": "minecraft:slime_ball"
+}
