@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "enabled": true,
+    "origins": [
+        "origins:ghoul",
+        "origins:slime"
+    ],
+    "allow_random": true
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Bonesoul",
+    "description": "A soul trapped in a cage of bones. Hails from the Nether.",
+    "order": 4,
+    "impact": 3,
+    "icon": "minecraft:bone",
+    "powers": [
+        
+    ]
+}
