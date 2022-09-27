@@ -3,7 +3,11 @@
     "enabled": true,
     "origins": [
         "origins:ghoul",
-        "origins:slime"
+        "origins:slime",
+        "origins:bonesoul",
+        "orchard:fungus",
+        "orchard:moth",
+        "orchard:feline"
     ],
     "allow_random": true
 }
